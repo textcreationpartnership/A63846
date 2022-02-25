@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moderation recommended in a sermon preached before the lord mayor and court of aldermen at Guild-Hall Chappel, May 12th, 1689 by George Tullie ...</title>
+            <author>Tullie, George, 1652?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63846</idno>
+            <idno type="STC">Wing T3241</idno>
+            <idno type="STC">ESTC R38916</idno>
+            <idno type="EEBO-CITATION">18189333</idno>
+            <idno type="OCLC">ocm 18189333</idno>
+            <idno type="VID">106983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63846)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106983)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1133:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moderation recommended in a sermon preached before the lord mayor and court of aldermen at Guild-Hall Chappel, May 12th, 1689 by George Tullie ...</title>
+                  <author>Tullie, George, 1652?-1695.</author>
+               </titleStmt>
+               <extent>[8], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXIX [1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: "Mr. Tullie's sermon of moderation."</note>
+                  <note>Running title: A sermon of moderation.</note>
+                  <note>"Licensed, June 5th, 1689. Z. Ishan."</note>
+                  <note>Includes publisher's list : p. [1]-[2] at end.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Philippians IV, 5 --  Sermons.</term>
+               <term>Christian life --  Anglican authors --  Sermons.</term>
+               <term>Moderation --  Religious aspects --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="order">
+            <pb facs="tcp:106983:1"/>
+            <head>
+               <hi>PILKINGTON</hi> MAYOR.</head>
+            <opener>
+               <dateline>
+                  <hi>Martis <date>XIV. Die Maii 1689.</date> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> &amp; Regine</hi> Willielmi &amp; Mariae Angl <hi>&amp;c. Primo.</hi>
+               </dateline>
+            </opener>
+            <p>This Court doth deſire Mr. <hi>Tul<g ref="char:EOLhyphen"/>ly</hi> to Print his Sermon lately Preach<g ref="char:EOLhyphen"/>ed in the <hi>Guild-Hall</hi> Chappel before the Lord MAYOR and Aldermen of this City.</p>
+            <closer>
+               <signed>Wagſtaffe.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>LICENSED</p>
+            <closer>
+               <signed>
+                  <hi>Z.</hi> ISHAN.</signed> 
+               <dateline>
+                  <date>June 5th. 1689.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:106983:1"/>
+            <p>MODERATION Recommended IN A SERMON Preached before the LORD MAYOR And Court of ALDERMEN AT <hi>Guild-Hall</hi> Chappel, <hi>May 12th.</hi> 1689.</p>
+            <p>By <hi>GEORGE T<g ref="char:V">Ʋ</g>LLIE,</hi> M. A. Sub-Dean of <hi>York.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiſwell</hi> at the <hi>Roſe</hi> and <hi>Crown</hi> in St. <hi>Pauls Church-yard.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106983:2"/>
+            <pb facs="tcp:106983:2"/>
+            <head>TO THE Right Honourable Sir THOMAS PILKINGTON, LORD MAYOR OF THE CITY of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>THO I am ſenſible of the obli<g ref="char:EOLhyphen"/>gations I have to your Lord<g ref="char:EOLhyphen"/>ſhip and the Court for your approbati<g ref="char:EOLhyphen"/>on of this plain Diſcourſe, yet I am apt, at the ſame time, to believe that it may chance to meet with a different ſort of entertainment from
+<pb facs="tcp:106983:3"/> ſome or other in the World: For when Mens prejudices are awake<g ref="char:EOLhyphen"/>ned, their paſſions up, and they reſolve before hand on diviſion, 'tis in vain for a Man to expect from either ſide any inſtances of that <hi>Moderation</hi> he adviſes both to, it being natural for Men, when unhappily divided into parties, gradnally to contract an a<g ref="char:EOLhyphen"/>verſion to thoſe who give them not countenance enough by running into the ſame <hi>Exceſſes</hi> with themſelves.</p>
+            <p>However, my Lord, I have very little concern upon me for any mens un<g ref="char:EOLhyphen"/>reaſonable heats, and extravagancies, as being ſure to have them of my mind, when they return to themſelves, and think ſoberly and Religiouſly on things, for then, of neceſſity, they cool into that very temper I here perſwade to, In ſhort, my Lord, I am <hi>ſure
+<pb facs="tcp:106983:3"/> moderation</hi> is a virtue, and a very excellent and uſeful virtue too, not<g ref="char:EOLhyphen"/>withſtanding that in our late years of <hi>extremities</hi> it was almoſt jeſted and rail'd out of Countenance. I am farther perſwaded that the ſincere practice of it on all ſides would go a great way to the uniting us both in intereſt and affection, and that it more eſpecially becomes thoſe, of whatſoever Deno<g ref="char:EOLhyphen"/>mination they are otherwiſe, to whom <hi>God has committed the Miniſtry of Reconciliation.</hi> On theſe con<g ref="char:EOLhyphen"/>ſiderations alone I firſt Preach'd, and now, in Obedience to your Lord<g ref="char:EOLhyphen"/>ſhip's and the Court's Command, publiſh this Diſcourſe, which if it chance to diſpoſe but any ſmall num<g ref="char:EOLhyphen"/>ber of Men to Amity, Temper, and Brotherly Love, and thereby contri<g ref="char:EOLhyphen"/>bute to the ſupport of our Holy Re<g ref="char:EOLhyphen"/>ligion
+<pb facs="tcp:106983:4"/> againſt its common and immor<g ref="char:EOLhyphen"/>tal Enemies, I have my end, an end for which I am content to undergo all the unreaſonable obloquy and re<g ref="char:EOLhyphen"/>flexion in the World.</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>I am your Lordſhip's moſt Obedient Hum<g ref="char:EOLhyphen"/>ble Servant. GEO. T<g ref="char:V">Ʋ</g>LLIE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106983:4"/>
+            <head>A SERMON OF MODERATION.</head>
+            <epigraph>
+               <bibl>PHIL. IV. 5.</bibl>
+               <q>Let your moderation be known unto all Men.</q>
+            </epigraph>
+            <p>TIS one of the great Excellencies of the Chriſtian Inſtitution, that the Virtues and Graces it recommends to our Practice, do not only render us good and holy in our individual capacities in order to our everlaſting welfare hereaſter, but modeſt, prudent, and wife in our political Relations, in order to our well being here, as we are form'd into Bodies or Communities of
+<pb n="2" facs="tcp:106983:5"/> men; that they all of them tend mightily to the ſweetning of Societies, and to the preventing, or healing thoſe differences which are apt to imbroil us. And upon this proſpect, partly, no doubt it is that we find thoſe <hi>homiletic,</hi> or, if I may ſo ſpeak, converſable Graces of meekneſs, gentleneſs, for<g ref="char:EOLhyphen"/>giveneſs, forbearance, <hi>&amp;c.</hi> ſo frequently preſs'd up<g ref="char:EOLhyphen"/>on us in the Sacred Writings, and are particularly required in the Text, to let our <hi>Moderation be known unto all men.</hi>
+            </p>
+            <p>In ſpeaking to which words I ſhall do theſe three things.</p>
+            <p>Firſt, I ſhall explain what I here underſtand by moderation in the Text.</p>
+            <p>Secondly, I ſhall lay down ſome Rules, or In<g ref="char:EOLhyphen"/>ſtances of moderation ſo explain'd. And</p>
+            <p>Thirdly and Laſtly, Shall conclude with a Mo<g ref="char:EOLhyphen"/>tive or two to the practice of it,</p>
+            <p>And firſt, What is here meant by moderation?</p>
+            <p>And this the rather, becauſe, that, as ſome of late, out of deſign, and others, from miſtake, have declaimed againſt it, ſo there are really ſeveral Vices, as temporizing, halting betwixt two Opi<g ref="char:EOLhyphen"/>nions, cowardiſe, and a fear of diſobliging, that uſurp its name, and fraudulently hang out its Co<g ref="char:EOLhyphen"/>lours.</p>
+            <p>Now for the more diſtinct underſtanding of the the thing it will be neceſſary to have recourſe to the Original word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an adjective, according to the Greek idiom, put for the Subſtantive, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from the different Tranſlations and Uſages where<g ref="char:EOLhyphen"/>of
+<pb n="3" facs="tcp:106983:5"/> we may be able to pick out and frame to our<g ref="char:EOLhyphen"/>ſelves a ſufficient notion of the virtue recommend<g ref="char:EOLhyphen"/>ed in the Text.</p>
+            <p>Some Verſions render it in this place by the word <hi>Manſuetudo, Meekneſs:</hi> Others by the word <hi>Humanitas, Humanity,</hi> a juſt ſenſe of the dignity of humane Nature, and a behaviour ſuitable there<g ref="char:EOLhyphen"/>to: Others render it <hi>Modeſtia, Modeſtie,</hi> an obliging ſort of demeanour towards others proceeding from low apprehenſions of a mans ſelf: Our Tranſlation render'd it formerly by the word <hi>Patience,</hi> and ſo I find ſome Interpreters would ſtill have it, impor<g ref="char:EOLhyphen"/>ting thereby an even and equable diſpoſition of mind under all events, at the 24 of the <hi>Acts,</hi> the 4 <hi>ver.</hi> 'tis rendred <hi>Clemency,</hi> which is but another word for <hi>Mildneſs,</hi> the one in private Perſons, the other in Men of Power and Authority, as <hi>Felix</hi> was to whom the words are there addreſſed. In the 2. <hi>Epiſt,</hi> of the <hi>Corinthians</hi> 10. <hi>chap. 1. ver.</hi> 'tis joyned as Synonimous, with the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mildneſs</hi> or <hi>Meekneſs,</hi> and is there rendred <hi>Gentle<g ref="char:EOLhyphen"/>neſs. Now I</hi> Paul <hi>my ſelf beſeech you by the meek<g ref="char:EOLhyphen"/>neſs,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Gentleneſs</hi> of Chriſt, <hi>&amp;c.</hi> by that facile and tractable diſpoſition, which was viſible in our Lord and Saviour. <hi>Ariſtotle</hi> (to omit ſe<g ref="char:EOLhyphen"/>veral other places of Scripture, where it is ren<g ref="char:EOLhyphen"/>der'd to the ſame effect) uſes the word in a more narrow and confined ſenſe than any we have yet mention'd; for that, to wit, which we call <hi>Equity,</hi> a readineſs to judge of things, not according to the ſtrict rigour and letter of the Law, but rather as
+<pb n="4" facs="tcp:106983:6"/> occaſion ſhall require, and prudence ſuggeſt, ac<g ref="char:EOLhyphen"/>cording to the circumſtances and exigences of par<g ref="char:EOLhyphen"/>ticular caſes, as it may reaſonably be ſuppoſed the Law giver himſelf would have judg'd and acted had ſuch emergent caſes come before him. Now tho this acceptation of the word is more particular, and furniſhes us with a more diſtinct notion than any of the other, yet, as <hi>Grotius</hi> obſerves, the word is not limited to this forinſic ſenſe here, but according to him, it imports, partly, a diſpoſition of mind, whereby a Man is inclined to recede from his own Right upon occaſion, and, partly, is ſtudious of all fair opportunities of being uſeful and advantageous to others; from all which I think, we may collect, that <hi>Moderation</hi> in gene<g ref="char:EOLhyphen"/>ral will amount to <hi>the due obſervation of a mean betwixt all unjuſtifiable exceſſes in matters of diffe<g ref="char:EOLhyphen"/>rence and conteſt amongst Men, proceeding from a just amplitude and ingenuity of Spirit, and aiming alwaies at the advancement of the moſt publick and extenſive good;</hi> and then <hi>Moderation,</hi> as it relates to religi<g ref="char:EOLhyphen"/>ous differences (in which ſenſe I ſhall principal<g ref="char:EOLhyphen"/>ly conſider it here) will be that <hi>gentle and equa<g ref="char:EOLhyphen"/>ble diſpoſition of mind, whereby a Chriſtian, upon a clear ſenſe of the main deſign of his Religion, and a due conſideration of the paſſions, prepoſeſſions, and other infirmities of Humane Nature, is inclined to the moſt amicable and gentle methods of healing and ac<g ref="char:EOLhyphen"/>commodating leſſer differences about matters of Re<g ref="char:EOLhyphen"/>ligion, in order to the more general advancement of more important Truths, and the ſubſtantial Intereſts of the Goſpel,</hi>
+            </p>
+            <pb n="5" facs="tcp:106983:6"/>
+            <p>We will take this general definition a peices, and that will give further light to what I mean.</p>
+            <p>Firſt, then, The Moderation I recommend muſt proceed from an internal habit or diſpoſition of the mind; for if a man, by the uncertain and ir<g ref="char:EOLhyphen"/>riſiſtable ſwing of humane affairs, is driven to re<g ref="char:EOLhyphen"/>laxations of the rigour of things, contrary to the bent and bias of his own, otherwiſe inflexible, inclinations, then his moderation wants the influ<g ref="char:EOLhyphen"/>ence of that internal principle, which gives life to all moral actions, and cheifly, denominates them virtuous.</p>
+            <p>Secondly, The moderation we ſpeak of muſt derive from a clear ſenſe of the main deſign of the Chriſtian Religion, and alwayes act in order to the advancement of it. Now the great end of the Chriſtian Inſtitution being to render every individual Chriſtian good and holy here in order to his everlaſting happineſs hereafter, and then, ſecondly, to plant in him thoſe Graces, which, as a Member of Civil Society, may moſt pro<g ref="char:EOLhyphen"/>mote the general good and quiet of Mankind, and the peace of the particular Community in which he lives, our Man of temper and mode<g ref="char:EOLhyphen"/>ration muſt alwayes have a ſpecial eye and re<g ref="char:EOLhyphen"/>gard to the advancement of theſe in all his pro<g ref="char:EOLhyphen"/>ceedings, and then howſoever unſucceſsful his en<g ref="char:EOLhyphen"/>deavours may be with men that reſolve to ſtand divided into parties, yet the honeſty and gene<g ref="char:EOLhyphen"/>roſity of his intentions will juſtifie him before God, and at the Bar of the ſevereſt reaſon. And
+<pb n="6" facs="tcp:106983:7"/> here take notice, that I exclude all ſecular and narrow conſiderations from being juſtifiable mo<g ref="char:EOLhyphen"/>tives to the exerciſe of that moderation I would perſwade to. Is a Man ſo inclined purely becauſe 'tis perhaps the humour of the Times wherein he lives? the humour may be a virtue in others, but in him 'tis a ſordid and ungenerous compli<g ref="char:EOLhyphen"/>ance. Is he, again, ſo inclined only to purchaſe the favour and good will of a Party, away with him and his Party together: The Moderation we ſpeak of, as it muſt be <hi>known unto all men,</hi> ſo muſt it aim, as far as poſſible, at the general good, peace, and mutual advantage of all men con<g ref="char:EOLhyphen"/>cerned in the Conteſt: The moderate Man muſt, with the great Apoſtle, an illuſtrious inſtance of this virtue, endeavour, as far as may be, to <hi>give no offence neither to the Jews, nor to the Gen<g ref="char:EOLhyphen"/>tiles, nor to the Church of God: pleaſing all men in all things, not ſeeking his own profit,</hi> or intereſt, the gratification of his own paſſion or humour, <hi>but the profit of many, that they may be ſaved,</hi> 1 Cor. 10. 33.</p>
+            <p>Thirdly, I ſaid a vertuous modera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion muſt proceed from a due conſideration of the paſſions, prepoſſeſſions, and other infirmities incident to our common humane Nature. <hi>i. e.</hi> in ſhort, from this undeniable maxime, that theſe, and other ſuch like things render an intire harmony and a agreement in opinion an impoſſibility in morali<g ref="char:EOLhyphen"/>ty, and the object of our wiſhes rather than of our hopes; whereupon our moderate Man, upon
+<pb n="7" facs="tcp:106983:7"/> a principle of the moſt extenſive benificence, and compaſſion on the ſcore of theſe unhappily dividing infirmities of our Nature, is inclined to make uſe of ſuch prudential expedients, as may, in his judgement, moſt conduce to the conciliating a good underſtanding amongſt men, notwithſtanding the variety of their apprehen<g ref="char:EOLhyphen"/>ſions.</p>
+            <p>Fourthly, I ſaid this Moderation muſt take place in the leſs and more minute differences a<g ref="char:EOLhyphen"/>bout Religious matters. For as for ſuch as ſap the foundations, or doctrines, by direct and ne<g ref="char:EOLhyphen"/>ceſſary conſequence<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, tending to the ſubverſion of them, there's room indeed for baſe ſervile Spirits to temporize and betray their Religion, but there's no room, that I know of, for any vir<g ref="char:EOLhyphen"/>tuous moderation, unleſs that of a fair and civi<g ref="char:EOLhyphen"/>liz'd handling the matters in debate, without vi<g ref="char:EOLhyphen"/>rulent and unmannerly reflexions.</p>
+            <p>And after what has been ſaid, if there be any vice, or unwarrantable artifice, that pre<g ref="char:EOLhyphen"/>tends to the name and mine of this excellent Grace, <hi>Rectum eſt index ſui &amp; obloqui,</hi> we may eaſily pull off its vizor, and diſcriminate it from the vertue in the Text, by the deſcription gi<g ref="char:EOLhyphen"/>ven of it.</p>
+            <p>And thus much of the firſt general, the true notion of a virtuous Moderation.</p>
+            <p>I proceed to the Second, which was to lay be<g ref="char:EOLhyphen"/>before you ſome R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les, or inſtances of Modera<g ref="char:EOLhyphen"/>tion thus ſtated and explain'd.</p>
+            <pb n="8" facs="tcp:106983:8"/>
+            <p>But before I do this, I muſt premiſe,</p>
+            <p>Firſt, that I would not be underſtood to pre<g ref="char:EOLhyphen"/>ſcribe to any one denomination of men, exclu<g ref="char:EOLhyphen"/>ſively of all others, but in the extent and lan<g ref="char:EOLhyphen"/>guage of the Text, <hi>
+                  <g ref="char:V">Ʋ</g>nto all men,</hi> that ſtand in need of it.</p>
+            <p>Secondly, That I intrench not here upon any thing that looks more properly like the task of publick wiſedom, as what is by no means rudely to be touch'd by private hands, no, all we have to do, is, if poſſible, by general argu<g ref="char:EOLhyphen"/>ments to <hi>diſpoſe</hi> Men to, and by general <hi>lines</hi> to chalk out the way that <hi>Leades</hi> to the great end of peace, and a good underſtanding.</p>
+            <p>The firſt Rule of moderation then in gene<g ref="char:EOLhyphen"/>ral, ſhall be this, to attemperate our concern for or againſt things with <hi>charity</hi> and <hi>diſcretion.</hi> For if <hi>Fury</hi> once uſurps the name of <hi>Zeal,</hi> and thoſe drunken Pilots, our Paſſions, ſit at the Helm, (for Paſſion is a ſort of ebriety of the mind) what can men expect but that, like a Fleet of Ships, with ſpread Sails, no ballaſt, and in a migh<g ref="char:EOLhyphen"/>ty Storm, we fall foul upon each other, and ſome ſuffer ſhipwrack in the Scuffle. If our Zeal tranſports us beyond the bounds of civil deco<g ref="char:EOLhyphen"/>rum and diſcretion, we offend againſt the Rules of our common humanity, and the fundamen<g ref="char:EOLhyphen"/>tal obligations we have to Mankind, as ſuch, which give the prime and irriverſable Laws to all humane Societies, and oblige us to a fair and civiliz'd demeanour towards one another
+<pb n="9" facs="tcp:106983:8"/> in all our tranſactions. If our Zeal puſh us on to exaſperating Language, harſh and ſevere cen<g ref="char:EOLhyphen"/>ſures, malicious miſconſtructions, <hi>&amp;c.</hi> beyond the meaſures that Charity preſcribes, we violate the prime and irrepealable Laws of our common Religion, and tranſgreſs both as Men and as Chri<g ref="char:EOLhyphen"/>ſtians. We muſt therefore in all our debates, eſpecially in thoſe of the Nature we ſpeak of, always appoint two Moderators of our Zeal and Concernment, <hi>Prudence</hi> in our <hi>Political,</hi> and <hi>Cha<g ref="char:EOLhyphen"/>rity</hi> in our <hi>Religious Capacity,</hi> without both, or either of which, our ardency partakes no longer of the Nature of a regular and vital heat, but of the Flame and burning of a Feaver: Is no longer Health, but Frenzy and Diſtemper; with<g ref="char:EOLhyphen"/>out which <hi>all our doings,</hi> how briskly and how bravely ſoever we may think we lay about us, <hi>are</hi> moſt certainly <hi>nothing worth,</hi> have no intrin<g ref="char:EOLhyphen"/>ſic value in them here, nor will ever avail us one jot hereafter. O thou Divine <hi>Charity,</hi> the very bond of Peace and of Perfectneſs! we have often heard of Thee by the hearing of the Ear, but when ſhall our Eyes ſee Thee! Never? It may be ſo. Yet, <hi>Abba Father, all things are poſſible unto Thee.</hi>
+            </p>
+            <p>Secondly, And in conſequence of the former, another Rule of the Chriſtian Moderation we ſpeak of, is, to refrain, as much as poſſible, from all ſcornful and ſcandalous Reflexions upon the perſons of thoſe with whom we differ. For as they are a manifeſt indication of want of <hi>Tem<g ref="char:EOLhyphen"/>per</hi>
+               <pb n="10" facs="tcp:106983:9"/> in the Aggreſſors, ſo are they, too fatally. apt to carry their Opponents into the ſame unju<g ref="char:EOLhyphen"/>ſtifiable exceſſes, eſpecially if the Sparks chance to fall upon Men of as combuſtible matter as thoſe who ſent them out; by which means the quarrel is gradually transferr'd from <hi>cauſes</hi> to <hi>per<g ref="char:EOLhyphen"/>ſons,</hi> which of all other things, ſets men at the moſt irreconcileable diſtance. Ill Words being naturally, ſo far from cloſing, that they never fail to widen Mens differences, and Feſter, and Gangrene thoſe Wounds, which without them, might probably have heal'd of themſelves. They alienate Men from entertaining any tollerable o<g ref="char:EOLhyphen"/>pinion of our perſons, and then we may bring them over to our perſwaſions, if we can; for we may endeavour to perſwade him to great pur<g ref="char:EOLhyphen"/>poſe, who, by the rude treatment we give him, ſhall have reaſon to think himſelf the Object of our Malice, or our Scorn. No, we may be as Hot and Angry as we pleaſe, but Men, I tell you, reaſonable Creatures, expect other uſage, and will not be ſcolded or rail'd out of their prejudi<g ref="char:EOLhyphen"/>ces. There is a natural ſturdineſs in all Men, that immediately ſets it ſelf to oppoſe, and con<g ref="char:EOLhyphen"/>front ſuch contemptuous uſage, and which there<g ref="char:EOLhyphen"/>fore is ſo far from informing Mens judgments, or bending their Wills, that it renders them much more inflexible, and therefore it might poſſibly become our Chriſtian Prudence in ſuch Caſes, if we do really and in good earneſt aim at an Honourable Peace, and a good Underſtan<g ref="char:EOLhyphen"/>ding,
+<pb n="11" facs="tcp:106983:9"/> (and God forgive them that do not) to be<g ref="char:EOLhyphen"/>take our ſelves to <hi>humane</hi> methods of perſwaſion, the bands of love, and the cords of a man; to endeavour to catch one another, as the Apoſtle ſpeaks of himſelf in relation to the <hi>Corinthians, craftily and with guile,</hi> by all the Chriſtian me<g ref="char:EOLhyphen"/>thods of endearment, kindneſs, candor, meek<g ref="char:EOLhyphen"/>neſs, good words; and if there be any other obliging and conciliateing ways, any other pi<g ref="char:EOLhyphen"/>ous complaiſance, which may recommend our perſons at leaſt, if not our perſwaſions, to one an<g ref="char:EOLhyphen"/>other.</p>
+            <p>
+               <hi>3ly.</hi> Another Rule of the Moderation we ſpeak of is, carefully to diſtinguiſh about the weight and importance of thoſe things wherein we differ, and to proportion our zeal for or a<g ref="char:EOLhyphen"/>gainſt them accordingly; for certainly, he were a very ridiculous perſon who ſhould be equally concern'd about the ſitting of his hair upon his head, as about the ſitting of his head upon his ſhoulders. When maſſie bulkie Errors, of the very firſt Magnitude, ſhall come to be cramm'd into our Creeds, and be ready to be cramm'd down our Throats, upon our inability to ſwallow them, away then with Modalities, Comprehen<g ref="char:EOLhyphen"/>ſions, compounding or comprimiſing the differ<g ref="char:EOLhyphen"/>ence; here the rule is, on the contrary, to <hi>con<g ref="char:EOLhyphen"/>tend earneſtly for the faith,</hi> to be <hi>zealouſly affected,</hi> to <hi>withstand</hi> our Adverſaries <hi>to the face,</hi> to keep our Poſts, maintain our ground, and not to flinch or abate one jot of our pretenſions, as we value
+<pb n="12" facs="tcp:106983:10"/> the intereſts of Truth, and of the Goſpel. But now in leſs momentous and important differences, as ours confeſſedly are on all hands, the ſame mea<g ref="char:EOLhyphen"/>ſure of zeal and ſtiffneſs is not, I conceive, war<g ref="char:EOLhyphen"/>rantable on either ſide, tho that of eſtabliſhment and authority muſt be own'd to have the ſtron<g ref="char:EOLhyphen"/>ger plea. Here the Rules are a cautious and pru<g ref="char:EOLhyphen"/>dential behaviour one towards another, a walk<g ref="char:EOLhyphen"/>ing by the ſame Canon, or Rule, as far as we poſſibly can, whereunto we have already at<g ref="char:EOLhyphen"/>tain'd, an endeavour of reducing our Brethren from their Errors in the ſpirit of meekneſs, and the like. In a word therefore, our zeal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or or againſt things ſhould always bear proportion to their juſt weight and importance, otherwiſe it becomes both criminal and ridiculous.</p>
+            <p>
+               <hi>4ly.</hi> Another Rule of the Chriſtien Moderati<g ref="char:EOLhyphen"/>on we ſpeak of is for a man to carry always about him a fair and teachable diſpoſition, and not to have his ears ſervilely bored through to the di<g ref="char:EOLhyphen"/>ctates of any one Maſter, or party of men, ex<g ref="char:EOLhyphen"/>cluſively of all others; for by that means we re<g ref="char:EOLhyphen"/>ally, and in effect, lapſe into the ſtupidity of an implicite faith, and <hi>follow</hi> ſuch or ſuch a Teacher, as the phraſe is, more like an herd of Cattel than a Congregation of Chriſtians. A man muſt not therefore, I ſay, be ſo over-conſident and dog<g ref="char:EOLhyphen"/>matical in the truth and rectitude of the things he is inclined to, as reſolvedly to bolt out all evi<g ref="char:EOLhyphen"/>dence to the contrary, and leave no room for a fur<g ref="char:EOLhyphen"/>ther enquiry into the grounds and reaſons of the
+<pb n="13" facs="tcp:106983:10"/> things he is at preſent perſwaded of; for that is not to act in the <hi>middle way</hi> which alone is ſuitable to the reaſonable nature, that being in it ſelf a ſort of <hi>medium</hi> betwixt the brute and the Divi<g ref="char:EOLhyphen"/>nity, and which, as it may be ſway'd and preju<g ref="char:EOLhyphen"/>diced by the ſenſual appetite of the one, ſo is it capable ſtill of receiving farther degrees of the illumination of the other; and therefore he who is thus reſolvedly partial, and rigidly deaf to all Objections that may ſhake the certainty of the things he is perſwaded of, acts not like the rea<g ref="char:EOLhyphen"/>ſonable humane Creature he pretends to be, but either below himſelf, with the obſtinacy and ſturdineſs of a brute, or a above himſelf, in a manner fit only for the infinite and inerrable knowledg of God. Our moderate man then is never invincibly ſtiff and tenacious, but as his ears are always open, to the voice of reaſon and truth, from whatſoever point of the Compaſs the ſound comes, ſo is his heart always equally open to entertain and embrace it. He is ready upon occaſion of enquiry into things, to diveſt himſelf, as far as poſſible, of his former prejudi<g ref="char:EOLhyphen"/>ces and prepoſſeſſions, ſets up the Imperial Stan<g ref="char:EOLhyphen"/>dard of Reaſon inſtead of them, and will ſtick by Truth, bare naked Truth, whereſoever he finds it, without regard to Parties, or invidious names fix'd upon them, or the Examples and Authorities of any one whatſoever; as well knowing, that he who ſhall in the lump, with<g ref="char:EOLhyphen"/>out examination or diſtinction, maintain for truth
+<pb n="14" facs="tcp:106983:11"/> whatſoever one man, or denomination of men, ſhall advance, and for right and good whatſo<g ref="char:EOLhyphen"/>ever they ſhall do, and deal <hi>juſt</hi> the <hi>quite contrary</hi> meaſure to <hi>all</hi> others, muſt in all humane proba<g ref="char:EOLhyphen"/>bility, often oblige himſelf to contradict Truth, defend unjuſtifiable proceedings, and provoke God himſelf, to whoſe actions and ſentiments alone ſuch unlimited deference of judgment and entire obedience is due, for 'tis God only that can never do amiſs, and never be in the wrong. And yet ſuch is the weakneſs of the generality of men, that they are carried away ſometimes by the <hi>names</hi> of Leaders and <hi>Parties,</hi> one is for <hi>Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> another for <hi>Apollo's,</hi> and a third for <hi>Cep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as,</hi> and yet poſſibly without due examination, how far any of theſe is for Chriſt; ſometimes again, by the <hi>names</hi> which the wit or malice of men have fixt upon opinions, or deſigns, without any farther enquiry into the nature of the things themſelves, according to that excellent and juſt obſervation, <hi>Pauci res ipſas ſequuntur, plures nomina rerum, plu<g ref="char:EOLhyphen"/>rimi nomina Magistrorum.</hi> And of this we have had late, but deplorable, experience, from the cunning and ſubtilty of thoſe whoſe buſineſs it was, ſtill is, and ever will be, to divide and in<g ref="char:EOLhyphen"/>flame us. Thus have the great Chriſtian Virtues of the Moderation we are now upon, conde<g ref="char:EOLhyphen"/>ſcenſion, forbearance, and the like ſuffer'd under the imputation of fanaticiſm, and thus again, on the other hand, has conformity with the beſt conſtituted Church upon earth been obſtructed,
+<pb n="15" facs="tcp:106983:11"/> only becauſe ſome men were pleas'd, how juſtly, time ſince has ſhewn, to ſuſpect it of Popery; and pray God our fooliſh paſſions, animoſities, and prejudices do not ſtill give the ſame com<g ref="char:EOLhyphen"/>mon enemy the ſame fatal opportunity of practi<g ref="char:EOLhyphen"/>ſing upon us. If therefore men would condeſcend to be Diſciples of the virtue in the Text, they muſt try all things, and hold faſt only that which is good, abet that alone in perſons of their own perſwaſions which is juſt and true, and diſprove that alone in others which is blame-worthy; they muſt have no men <hi>in admiration</hi> through prejudice, education, or paſſion, and not hold the Faith of Chriſt <hi>with reſpect of perſons;</hi> and by thus doing they will purchaſe to themſelves the applauſe of their own Conſciences, a good report among all honeſt and underſtanding men, and it matters not for others.</p>
+            <p>
+               <hi>5ly.</hi> Another Rule, or inſtance, of the Mode<g ref="char:EOLhyphen"/>ration I perſwade to, when men ſtand divided in opinion, is what the Apoſtle preſcribes, and that upon occaſion too, of ſuch differences in the Church of <hi>Corinth, That no man ſeek his own, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, every one the things of another,</hi> (1 <hi>Cor.</hi> 10. 21.) the common publick good of the whole Community concern'd in the contect, not the private ſeparate advantage of any one ſingle party; for whatſoever leads men to an intempe<g ref="char:EOLhyphen"/>rate love of themſelves, and their own ends, di<g ref="char:EOLhyphen"/>vides the unity that ought to be amongſt them. <hi>And certainly,</hi> ſays a late great Prelate of
+<pb n="16" facs="tcp:106983:12"/> our own, A. B. <hi>Laud</hi> himſelf, <hi>there's no keeping of unity either in Church or State, unleſs men will be ſo tem<g ref="char:EOLhyphen"/>perate, (when it comes to a puſh at leaſt) as to lay down the private for the publicks ſake, and perſwade others to do the like.</hi> And indeed 'tis too obvious to imagin what peril to the publick good muſt derive from an immoderate love of the private, to need a Comment; for how only, in a word, ſhould that body, whether Natural or Political, be preſerv'd ſafe and entire, if the hands, for inſtance, would aſſiſt no other part but themſelves, if the head would not direct the feet, nor the feet con<g ref="char:EOLhyphen"/>tribute to ſupport the head: Let us therefore, I ſay, (and I am ſure 'tis high time ſo to do) diveſt our ſelves of that littleneſs of ſpirit, and narrow ſelfiſh principle which reigns ſo viſibly amongſt us, and is ſo unworthy the dignity of a man, and the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ety of a Chriſtian, and ſo directly oppoſite to the peace and preſervation of all humane So<g ref="char:EOLhyphen"/>cieties; and reaſſume we, on the contrary, that juſt amplitude and generoſity of temper, that like <hi>charity ſeeketh not its own,</hi> but the publick and moſt univerſal good.</p>
+            <p>
+               <hi>6ly.</hi> Another Rule, or inſtance, of a virtuous Moderation is for men to put the moſt chari<g ref="char:EOLhyphen"/>table conſtructions they can upon one another's actions and perſwaſions, aſcribing them to the beſt cauſes, aſſigning them the beſt ends, and deriving them from the beſt principles they fair<g ref="char:EOLhyphen"/>ly may. For, for men immediately to fall foul upon one another's integrity, to charge the dif<g ref="char:EOLhyphen"/>ference
+<pb n="17" facs="tcp:106983:12"/> of perſwaſions and practiſes obſervable amongſt us, upon the corruption of our minds, and the depravity of our hearts, is to aſſail one another in the moſt quick and ſenſible parts, and to ſet us at an irreconcileable diſtance; the heart and intention being that grand leading principle by which as the great ſearcher of hearts will judg all men hereafter, ſo likewiſe that too, by which they ought principally to ſtand or fall in the eſti<g ref="char:EOLhyphen"/>mate of their fellow-ſervants here; and therefore not rudely to be aſſaulted without the keeneſt reſentments. Let us not therefore, if we have any ſenſe of moderation and temper, perſiſt to dreſs up things in ſhapes, that for ought we know belong not to them, in hideous and portentous forms to frighten and exaſperate one another, but let us rather aſcribe the differences amongſt us to error of judgment, the prejudices of Education, infelicity of Conſtitution, or to any other of thoſe either innocent or excuſable cauſes, which render an entire unity of opinion an impoſſible thing: but do'nt we by any means ſet up for ſearchers of hearts, and peremptorily judg of men in refe<g ref="char:EOLhyphen"/>rence to their future ſtates; we know whoſe great attribute that is, and to him, their own maſter, as to that particular, muſt every man ſtand or fall. Who art thou that invadeſt this mighty Prerogative, and that thus arrogantly judgeſt another mans ſervant?</p>
+            <p>
+               <hi>7ly.</hi> Another Rule of the Chriſtian moderati<g ref="char:EOLhyphen"/>on I ſpeak of, I take to be this; not to charge
+<pb n="18" facs="tcp:106983:13"/> the faults or failures of particular perſons, either upon whole parties, or their perſwaſions. For as to to the firſt of theſe, 'tis an open breach of Juſtice, Charity, and Logick, all at once, it being againſt the known rules of reaſoning to argue from a lame induction of particulars to univerſals, for in that caſe there is more in the concluſion than was in the premiſes, which is a fallacy, and not to be admitted. St. <hi>Jude</hi>'s Rule therefore of <hi>making a difference,</hi> muſt take place here, and that will ſet us right. Nor is it, ſecondly, any more juſtifiable to load the ſeveral cauſes men may chance to maintain with the exorbitancies or irregularities of their particular abetters, in as much as there is no neceſſary connexion betwixt <hi>truth</hi> and <hi>error</hi> in the <hi>underſtanding,</hi> and <hi>rectitude</hi> and <hi>obliquity</hi> in the will; we muſt not then argue from perſons to cauſes; for as (to in<g ref="char:EOLhyphen"/>ſtance) we read of ſeveral Hereticks of old whoſe lives were as pure and unblameable, as their errors were groſs and pernicious, ſo, what is but a melancholly conſideration, we need not go far for inſtances of thoſe, whoſe lives are as ſcandalous, as their communion is orthodox.</p>
+            <p>
+               <hi>8ly.</hi> Another rule of the Moderation I would perſwade to, is, not to engage in any needleſs conteſts and diſputes about theſe leſſer matters: according to the advice of the great Apoſtle in his fourteenth Chapter to the <hi>Romans,</hi> at the firſt verſ. <hi>Him that is weak in the faith,</hi> (who is ſtill ſcrupulous about his Moſaick Rites, Meats, Days,
+<pb n="19" facs="tcp:106983:13"/> 
+               <hi>&amp;c.) receive ye, but not to doubtful diſputations.</hi> In as much as experience ſhews ſuch conflicts are ſeldom attended with better ſucceſs than with heating both our ſelves and opponents in<g ref="char:EOLhyphen"/>to paſſion; and then for ought I know the gi<g ref="char:EOLhyphen"/>ving way to anger and reſentment on both ſides may be of worſe conſequence than the error on either. And therefore poſſibly 'twere moſt ad<g ref="char:EOLhyphen"/>viſable for men in ſuch caſes, fairly and modeſt<g ref="char:EOLhyphen"/>ly to propound their reaſons, without endea<g ref="char:EOLhyphen"/>vouring forcibly to bear down their Adverſaries with the ſtrength of them, for the ſeeming in<g ref="char:EOLhyphen"/>ſult and triumph of ſuch a procedure does but more impregnably ſteel men againſt that convi<g ref="char:EOLhyphen"/>ction, which the truth of our cauſe, and the weight of our arguments might otherwiſe create: better therefore, I ſay, leave men to the cool of their thoughts, and ſuffer private reflexion to work what bearing hard upon them would ne<g ref="char:EOLhyphen"/>ver produce, if God peradventure will give them repentance to the acknowledging of the truth we ſhall have fairly propounded.</p>
+            <p>
+               <hi>9ly.</hi> and laſtly, Another Rule of the Modera<g ref="char:EOLhyphen"/>tion I perſwade to, is what the ſame Apoſtle ad<g ref="char:EOLhyphen"/>viſes in the ſame Chapter to the <hi>Romans;</hi> above mention'd, at the third verſ. <hi>Let not him that eateth</hi> (him, who, upon the abolition of the Cere<g ref="char:EOLhyphen"/>monial diſpenſation by our Lord is ſatisfied, he may lawfully eat of ſuch meats as in the Leviti<g ref="char:EOLhyphen"/>cal Law were reputed unclean) <hi>deſpiſe him that eateth not;</hi> (him, who on the other hand, through
+<pb n="20" facs="tcp:106983:14"/> his former prejudices thinks himſelf ſtill obliged to abſtain from them) <hi>and let not him which eateth not, judge</hi> (or condemn) <hi>him that eateth.</hi> Where 'tis manifeſt each party rallied and reflected on the o<g ref="char:EOLhyphen"/>ther. The Eaters 'tis likely look'd upon the non<g ref="char:EOLhyphen"/>eaters as ſilly, weak, and ſuperſtitious people, laugh'd at and ridiculed their childiſh ſcrupuloſi<g ref="char:EOLhyphen"/>ty; and theſe he adviſes to abate of their intel<g ref="char:EOLhyphen"/>lectual pride, and ſupercilious ſcornful humour; the non-eaters on the other ſide were ſullen, ſowre, and moroſe, full of cenſure, and ill na<g ref="char:EOLhyphen"/>ture, and probably condemn'd the Eaters as per<g ref="char:EOLhyphen"/>ſons irreligious, that made no conſcience of their actions, and who were ready, upon occaſion, to comply with any thing; and theſe he perſwades to modeſty and ſobriety in paſſing their verdicts upon thoſe who were otherwiſe perſwaded; and indeed the reaſonableneſs and wiſdom of the A<g ref="char:EOLhyphen"/>poſtle's advice is demonſtrable from the nature of the two <hi>extremes</hi> of which theſe parties were guilty; <hi>contemning</hi> and undervaluing on the one hand, and <hi>judging</hi> and cenſuring on the other. For as to the firſt of theſe, <hi>contempt,</hi> nothing in the world is more exaſperating and provoking than it. Men had rather be the objects of your malice than your ſcorn; the former ſuppoſes them conſiderable, and every man is willing to be thought ſo for ſomething or other, but the latter ſpeaks them below your notice, and ſtrikes directly at that value which every man is apt to ſet upon himſelf. Nay indeed, all other pro<g ref="char:EOLhyphen"/>vocations
+<pb n="21" facs="tcp:106983:14"/> borrow a great part of their ſting from the contempt they imply, for no man injures or abuſes another, but who at the ſame time, tacite<g ref="char:EOLhyphen"/>ly, at leaſt, diſpiſes and contemns him. And then again, for the <hi>exceſs</hi> on the other hand, the ſowre, cenſorious, judging humour, that too ex<g ref="char:EOLhyphen"/>tremely irritates and provokes, as what, in theſe leſſer matters eſpecially, looks more like the pro<g ref="char:EOLhyphen"/>duct of peeviſhneſs and malice, than of ignorance or miſtake; and how far the continuance of our unhappy diviſions has been owing to theſe faults, and the want of putting this Apoſtolick Rule in practiſe, is perhaps a fitter ſubject for our ſorrow than our diſcuſſion. I might detain you longer upon this head, but whilſt I treat of <hi>Moderation,</hi> I muſt remember that I am then more eſpecially obliged to keep within bounds my ſelf, and pro<g ref="char:EOLhyphen"/>ceed therefore, briefly, in the laſt place, to ſome motives, or inducements to the practice of it.</p>
+            <p>And need there indeed any other motives be<g ref="char:EOLhyphen"/>ſides the ſimple reaſonableneſs of the thing, to induce men to the practice of any one particular I have perſwaded to? need I yet adviſe men to be <hi>ſober, modeſt, prudent, and temperate,</hi> when <hi>heats, animoſities, and exceſſes,</hi> have almoſt un<g ref="char:EOLhyphen"/>done us? and do not the dangers we have eſ<g ref="char:EOLhyphen"/>caped, and the circumſtances we are in, call lou<g ref="char:EOLhyphen"/>der upon us than a thouſand other Arguments, to lay aſide faction in Religion, and to glorifie God with one heart and one mouth? Surely they
+<pb n="22" facs="tcp:106983:15"/> do. And if you need any farther motives con<g ref="char:EOLhyphen"/>ſider,</p>
+            <p>1. That the moderation I recommend is the peculiar virtue and ornament of that excellent Church you own your ſelves members of, the Church of <hi>England;</hi> I ſay again, of the Church of <hi>England,</hi> which in her very fundamental Con<g ref="char:EOLhyphen"/>ſtitution, is a <hi>mean</hi> betwixt the two extremities, <hi>Superſtition</hi> on the one hand, and <hi>Enthuſiaſm</hi> on the other; and as for thoſe exceſſes her adverſa<g ref="char:EOLhyphen"/>ries have been pleas'd to charge her with, ſhe is no way in her ſelf, reſponſible for them, unleſs they could, at the ſame time, prove that the perſonal failures, indiſcretions, paſſions, <hi>&amp;c.</hi> of every particular member of her Communion are adopted into her Conſtitution, which were no leſs an abſurd than an uncharitable Poſition.</p>
+            <p>
+               <hi>2ly.</hi> Let me perſwade you to the practice of this virtue, becauſe 'tis the truly Evangelical temper, and the practice of the Apoſtles them<g ref="char:EOLhyphen"/>ſelves. The great Doctor of the Gentiles has left us an undeniable precedent of this matter in his own perſon; for though he tells us, He was <hi>Free from all men,</hi> yet he made himſelf <hi>a ſervant unto all, that he might gain the more;</hi> He <hi>made</hi> himſelf <hi>all things to all men, that by all means he might have ſome.</hi> And <hi>how was he to all,</hi> as a Learned <note place="margin">Biſhop Hall of <hi>Exeter.</hi>
+               </note> Prelate of our own asks the queſtion, <hi>if he did not ſometimes remit of his right to ſome,</hi> &amp; indeed had the Saint ſolicited the Chriſtian cauſe with the ſame
+<pb n="23" facs="tcp:106983:15"/> zeal and ſtiffneſs, the Perſecutor had purſued it with not long before, he might have ſaved himſelf the labour of preaching the Goſpel from <hi>Jeru<g ref="char:EOLhyphen"/>ſalem</hi> round about to <hi>Illiricum,</hi> his <hi>Goſpel</hi> had been <hi>hid</hi> to all intents and purpoſes: And in his own language, he had ſpoke all the while <hi>unto the air;</hi> in as much as experience atteſts, that fierce<g ref="char:EOLhyphen"/>neſs and violence are the moſt improper engines imaginable to move the great weights of ſo ſtrong prepoſſeſſion, and ſuch long preſcription. Nay, 'tis farther evident that the tranſactions of the whole Apoſtolick Synod recorded in the <hi>15th.</hi> of the <hi>Acts,</hi> are an eminent inſtance of the <hi>temperate</hi> proceeding I at preſent recom<g ref="char:EOLhyphen"/>mend. For tho they might juſtly have inſiſted upon their Apoſtolick authority, the extent and plenitude of their Commiſſion, and the unque<g ref="char:EOLhyphen"/>ſtionable infallibility of their deciſions, and there<g ref="char:EOLhyphen"/>upon have peremptorily condemned the ſcrupu<g ref="char:EOLhyphen"/>lous Judaizing Converts by ſome Canon, or Decree, to which they ſhould be obliged to ſubmit, without farther debate, upon pain of <hi>Anathema,</hi> yet I ſay, notwithſtanding all theſe indiſputable advantages on their ſide, it <hi>ſeem'd good to the Holy Ghoſt,</hi> and to the Apoſtles, to come rather to a <hi>Temperament;</hi> for they proceed<g ref="char:EOLhyphen"/>ed neither to an abſolute prohibition of the Mo<g ref="char:EOLhyphen"/>ſaique Rites after converſion, wiſely conſidering that they might thereby have exaſperated the Judaizing Zealots into an abſolute Apoſtaſie from the faith; nor were they ſo regardleſs
+<pb n="24" facs="tcp:106983:16"/> on the other hand, of the liberty of the Gen<g ref="char:EOLhyphen"/>tile Converts, as to require any other obſervan<g ref="char:EOLhyphen"/>ces of them than ſuch as they preſumed were requiſite, in that exigency of affairs, in order to a perfect union and agreement amongſt them, that they might thereby prudentially remove ſuch occaſions of difference as might obſtruct the growth and progreſs of the <hi>common</hi> Chriſtia<g ref="char:EOLhyphen"/>nity in the world.</p>
+            <p>
+               <hi>3ly.</hi> Be perſwaded to the practiſe of this virtue, becauſe you thereby make the neareſt approaches that the infirmities of Men, and the circumſtances of human affairs will admit to the Divine O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cono<g ref="char:EOLhyphen"/>my it ſelf; for what, I beſeech you, is God's whole Government of the world, but a <hi>moderation</hi> of the <hi>rigour</hi> of his juſtice, with a <hi>temperament</hi> of mercy? For if he ſhould be <hi>extreme</hi> to mark what is done amiſs, as we are, ſhould purſue things to their utmoſt rigour and extent, take advantage of all the forfeitures we make him, and not recede one jot from his juſt pretenſions againſt us, <hi>Who could live if God ſhould do this?</hi> and it appears to me a very hard caſe, that we cannot be induced to treat one another with the ſame temper that our common God treats us all with. And this naturally leads me to ſhut up all with the ſequel of the Text.</p>
+            <p>Let your Moderation be known unto all men, <hi>the Lord is at hand.</hi> He is not far off in his final judgment of all fleſh, and then I am ſure the beſt of us all will ſtand in need of that <hi>temper</hi>
+               <pb n="25" facs="tcp:106983:16"/> and <hi>moderation</hi> in him, which we deny to one another. <hi>He is at hand,</hi> again, not far off, poſ<g ref="char:EOLhyphen"/>ſibly, in the execution of ſome temp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ary and heavy judgments upon this ſinful Land of our Nativity. Sure I am that if an <hi>unnatural ingra<g ref="char:EOLhyphen"/>titude, unchriſtian animoſities, ill grounded jealou<g ref="char:EOLhyphen"/>ſies, unreaſonable diſſatisfactions, ſinful murmurings,</hi> if, I ſay, in a word, one of the worſt abuſes that ever was of one of the greateſt of mercies <hi>in poſſeſſion,</hi> be a fatal fore-runner of the foreſt of Judgments <hi>in reverſion,</hi> we of all Mankind bid the faireſt for them. For if, after God has unex<g ref="char:EOLhyphen"/>pectedly dropt his mercies in our mouths, we ſhall u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gratefully throw them up again, will not the Divine indignation have juſt reaſon to uſe the ſame paſſionate expoſtulation with us that he did with the dull murmuring <hi>Iſraelites</hi> of old, <hi>What could I ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e done more for my Vineyard that I have not done for it?</hi> and to inflict likewiſe the ſame judgment upon us; <hi>Behold, your houſe is left unto you deſolate.</hi> If we will ſtill perſiſt to ſa<g ref="char:EOLhyphen"/>crifice our Holy Religion, the intereſts of Truth and of the Goſpel, all in a word, that is dear to us as m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n or Chriſtians, to our paſſions, animo<g ref="char:EOLhyphen"/>ſiti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf-will, private intereſts, notions; or to ſpeak more properly, to we know not what; why then we fall as ridiculous as unpitied vi<g ref="char:EOLhyphen"/>ctims, God our deliverer, with all the Nations round about us, will juſtly laugh at our calami<g ref="char:EOLhyphen"/>ty; mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k when our fear cometh, and give us up to that deſtruction wherein we ſeem to delight.
+<pb n="26" facs="tcp:106983:17"/> In a word, <hi>the Lord is at hand,</hi> I hope in the midſt of this preſent Aſſembly, and when thou, Lord, ſhalt come to judg the World, 'twil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not then, ſurely, be enquired, who has moſt ſtiftly and vehemently aſſerted the little inferior opinions, perſwaſions, and intereſts of his own particular party, but who in his life and converſation has moſt promoted the true Spirit and Genius of thy holy Religion <hi>for its own ſake,</hi> and moſt labour<g ref="char:EOLhyphen"/>ed the advancement of one of thoſe great and glorious ends thou cameſt into the world for, of <hi>Peace on earth, and good will a mongst men.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:106983:17"/>
+            <head>
+               <hi>Books lately Printed for</hi> Richard Chiſwell.</head>
+            <p>THe Caſe of Allegiance in our preſent circumſtances conſidered, in a Letter from a Miniſter in the City, to a Miniſter in the Country.</p>
+            <p>A Sermon preached at <hi>Fulham,</hi> in the Chappel of the Palace upon <hi>Eaſter</hi> day 1689. at the Conſecration of the Right Reverend Father in God <hi>Gilbert</hi> Lord Biſhop of <hi>Sarum:</hi> By <hi>Anthony Horneck,</hi> D. D.</p>
+            <p>The Judgments of God upon the <hi>Roman Catholick Church,</hi> from its firſt Rigid Laws for Univerſal Conformity to it, unto its laſt End. With a proſpect of theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ear approaching Revolutions, <hi>Viz.</hi> The Revival of the <hi>Proteſtant</hi> profeſſion in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Eminent Kingdom, where it was totally ſuppreſſed. The laſt End of all <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Hoſtilities. The general ratification of the power of the <hi>Roman <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> in all parts of its Dominions. In Explication of the <hi>Trumpets</hi> and <hi>Vials of the Apocalypſe,</hi> upon Principles generally acknowledged by <hi>Proteſtant</hi> Inter<g ref="char:EOLhyphen"/>preters. By <hi>Drue Creſſener,</hi> D. D.</p>
+            <p>A Breviate of the State of <hi>Scotland</hi> in its Government, Supream Courts, Of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s of State, Inferiour Officers, Offices and Inferiour Courts, Diſtricts, Juriſ<g ref="char:EOLhyphen"/>dictions, Burroughs Royal, and Free Corporations. <hi>Fol.</hi>
+            </p>
+            <p>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me Conſiderations touching Succeſſion and Allegiance.</p>
+            <p>A Diſcourſe concerning the Worſhip of Images; preached before the Univerſity <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Oxford:</hi> By <hi>George Tully</hi> Sub-Dean of <hi>York,</hi> for which he was Suſpen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed</p>
+            <p>Reflexions upon the late Great Revolution: Written by a Lay-Hand in the C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntry, for the ſatisfaction of ſome Neighbours.</p>
+            <p>The Hiſtory of the Diſſertion; or an Account of all the publick Affairs in <hi>Eng<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> from the beginning of <hi>September</hi> 1688. to the Twelfth of <hi>February</hi> follow<g ref="char:EOLhyphen"/>ing. With an Anſwer to a Piece call'd The Diſſertion diſcuſſed, in a Letter to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Country Gentleman. By a Perſon of Quality.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>William</hi> and K. <hi>Lewis,</hi> wherein is ſet forth the inevitable neceſſity theſe Nations lie under of ſubmitting wholly to one or other of theſe Kings; And that <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> matter in Controverſie is not now between K. <hi>William</hi> and K. <hi>James,</hi> but <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>een K. <hi>William</hi> and K <hi>Lewis</hi> of <hi>France</hi> for the Government of theſe Nations.</p>
+            <p>An Examination of the Scruples of thoſe who refuſe to take the Oath of Al<g ref="char:EOLhyphen"/>legiance, by a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>A Dialogue betwixt two Friends, a <hi>Jacobite</hi> and a <hi>Williamite;</hi> occaſion'd by <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> late Revolution of Affairs, and the Oath of Allegiance.</p>
+            <p>Two Sermons, one againſt Murmuring, the other againſt Cenſuring: By <hi>Sy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Patrick.</hi> D. D.</p>
+            <p>An Account of the Reaſons which induced <hi>Charles</hi> the Second, King of <hi>En<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>,</hi> to declare War againſt the <hi>States-General</hi> of the United Provinces in 1672. And of the <hi>Private League</hi> which he entred into at the ſame Time with the <hi>French <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> to carry it on, and to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtabliſh Popery in <hi>England, Scotland;</hi> and <hi>Ireland,</hi> as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are ſet down in the <hi>Hiſtory of the Dutch War,</hi> printed in <hi>French</hi> at <hi>Paris,</hi> with <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> priviledg of the <hi>French</hi> King, 1682. Which Book he cauſed to be in mediate<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ppreſs'd at the Inſtance of the <hi>Engliſh</hi> Ambaſſador. <hi>Fol.</hi>
+            </p>
+            <p>An Account of the Private League betwixt the late King <hi>James</hi> the Second, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Fren<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h</hi> King. <hi>Fol.</hi>
+            </p>
+            <p>The Caſe of Oaths Stated, <hi>4to.</hi>
+            </p>
+            <pb facs="tcp:106983:18"/>
+            <p>The Anſwer of a Proteſtant Gentleman in <hi>Ireland</hi> to a late Popiſh Letter of <hi>N. N.</hi> upon a Diſcourſe between them, concerning the preſent poſture of that Country, and the part fit for thoſe concern'd there to act in it. <hi>4to.</hi>
+            </p>
+            <p>An Apology for the Proteſtants of <hi>Ireland,</hi> in a brief Narrative of the late Re<g ref="char:EOLhyphen"/>volutions in that Kingdom; and an Account of the pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> State thereof: By a Gentleman of Quality: <hi>4to.</hi>
+            </p>
+            <p>A Letter from a <hi>French</hi> Lawyer to an <hi>Engliſh</hi> Gentleman, upon the preſent Revolution. <hi>4to.</hi>
+            </p>
+            <p>Mr. <hi>Wake</hi>'s Sermon before the King and Queen at <hi>Hampton Court.</hi>
+            </p>
+            <p>—His Faſt-Sermon before the Houſe of Commons, <hi>Jun.</hi> 5. 1689.</p>
+            <p>Dr. <hi>Teniſon</hi>'s Faſt-Sermon before the Houſe of Common<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>Jun.</hi> 5. 1689.</p>
+            <p>Scriptorum Eccleſiaſticorum Hiſtoria Literaria a Chriſto nato uſque ad Se<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ium <hi>XIV.</hi> Facili ethodo digeſta. Qua de Vita illorum ac Rebus geſtis, de Secta, D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<g ref="char:EOLhyphen"/>matibus, Elogio, Styl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; de Scriptis genuinis, dubiis, ſuppoſititiis, ineditis-de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erdi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, Fragmentis; deque variis Operum Edi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ionil us perſpicue agitur. Accedunt Scr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>res Gentiles, Chriſtian <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religionis Oppugnatores; &amp; cujuſvis Saecvli Breviarium. Ir<g ref="char:EOLhyphen"/>ſeruntur ſuis locis Veterum aliquot Opuſcula &amp; Fragmenta, tum G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, tum Lati<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bactenus inedita, Praemiſſa denique Prolegomen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, quibus plurima ad Antiq<gap reason="illegible" resp="#KEYERS" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap> Eccleſiasticae ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dium ſpectantia traduntur. <hi>Opus Indicibus neceſſariis inſtructum. Autore G<g ref="char:V">Ʋ</g>ILIELMO CAVE, SS.</hi> Theol. Profeſ. Canonico Windeſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ienſi. Accedit a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Alia Man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Appendi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ab ineunte Saeculo <hi>XIV.</hi> ad Annum uſque <hi>MDX VII.</hi> Fol. 1689.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>Whereas a Book, Intituled, FASCICULUS RERUM EXPETEN<g ref="char:EOLhyphen"/>DARUM ET FUGIENDARUM, with a large Additional APPEN<g ref="char:EOLhyphen"/>DIX, was promiſed by <hi>Richard Chiſwell</hi> the Undertaker to be finiſhed in Mi<g ref="char:EOLhyphen"/>chaelmas Term laſt; This is to give Notice. That by reaſon of the Sickneſs of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Printer, and ſome neceſſary Avocations of the Publiſher, it has been re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<g ref="char:EOLhyphen"/>ded. But, for the Satisfaction of Subſcribers, the Book will be forty or fifty Sheets more than was promiſed in the Propoſals, which will coſt the Underta<g ref="char:EOLhyphen"/>ker 100 <hi>l.</hi> extraordinary, yet, in Conſideration thereof, he will not expect one penny above the firſt Subſcription price; only craves their patience till the Book can be done, which is now going on with all poſſible ſpeed, and ſo ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as finiſhed Notice ſhall be given in the <hi>Gazette.</hi> In the mean time there being ſome few of the Impreſſion not yet ſubſcribed for, ſuch Gentlemen as pleaſe to take the Benefit thereof may be admitted Subſcribers, and may have <hi>Printed Propoſals</hi> for ſending for, at the Roſe and Crown in St. <hi>Pauls</hi> Church-Yard, or at moſt Bookſellers Shops in City or Country.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
